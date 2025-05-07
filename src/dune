@@ -1,0 +1,7 @@
+(library
+ (name block)
+ (public_name mirage-block-unikraft)
+ (libraries cstruct lwt mirage-block mirage-unikraft fmt)
+ (foreign_stubs
+  (language c)
+  (names blkdev result)))
