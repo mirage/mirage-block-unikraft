@@ -7,7 +7,7 @@ maintainer: ["team@mirage.org"]
 authors: [
   "Fabrice Buoro <fabrice@tarides.com>" "Samuel Hym <samuel@tarides.com>"
 ]
-license: "BSD-3"
+license: "BSD-3-Clause"
 tags: ["org:mirage"]
 homepage: "https://github.com/mirage/mirage-block-unikraft"
 bug-reports: "https://github.com/mirage/mirage-block-unikraft/issues"
